@@ -1,0 +1,110 @@
+/* Lowerpage Draft */
+
+/*Our Latest Projects*/
+.latestprojects, .Thingsofabove, .footer {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+h2 {
+    margin-bottom: 0;
+    color: #494949;
+}
+
+.latestprojects p {
+    font-size: 12px;
+    color: #b6b5b5;
+    margin-top: 0;
+}
+/* Thingsofabove */
+
+.Thingsofabove p {
+    font-size: 12px;
+    color: #b6b5b5;
+    margin-top: 0;
+}
+
+/* Footer */
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.footer {
+    background-color: #16242f;
+    color: white;
+    margin-top: 40px;
+    padding: 20px 150px 20px 150px;
+}
+
+/* Peewee Info */
+.peewee img {
+    border-radius: 60%;
+    width: 50px;
+    height: 55px;
+}
+
+h4 {
+    font-size: 10pt;
+}
+.peewee p {
+    font-size: 8pt;
+    font-style: italic;
+}
+
+/* About Us */
+.aboutus p {
+    font-size: 8pt;
+}
+/* Social Media Icons */
+.fa {
+    padding: 0;
+    font-size: 10px;
+    width: 34px;
+    height: 33px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}  
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-instagram {
+    background: #f5679c;
+    color: white;
+}
+.fa-rss {
+    background: #ff6600;
+    color: white;
+}
+
+/* Recent Tweets */
+.recenttweets a {
+    color: #1bade5;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.recenttweets p {
+    font-size: 8pt;
+}
+
+.fa-brands {
+    background:#5b656f;
+    color: white;
+}
+
+/* Newsletter */
+.Newsletter p {
+    font-size: 8pt;
+}

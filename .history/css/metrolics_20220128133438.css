@@ -1,0 +1,19 @@
+/* Lowerpage Draft */
+.latestprojects, .Thingsofabove, .footer {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.latestprojects p {
+    font-size: 12px;
+    color: #b6b5b5;
+    margin-top: 0;
+}
+/* Footer */
+/*Peewee Info */
+
+.peewee img {
+    border-radius: 60%;
+    width: 50px;
+    height: 55px;
+}
+

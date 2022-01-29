@@ -1,0 +1,11 @@
+/* Lowerpage Draft */
+.latestprojects {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+}
+.peewee img {
+    border-radius: 60%;
+    width: 50px;
+    height: 55px;
+}

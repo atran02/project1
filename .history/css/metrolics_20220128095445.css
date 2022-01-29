@@ -1,0 +1,8 @@
+/* Lowerpage Draft */
+.lastestprojects {
+    display: flex;
+    align-content: center;
+}
+h2 {
+    font-style: italic;
+}

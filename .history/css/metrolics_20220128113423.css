@@ -1,0 +1,17 @@
+/* Lowerpage Draft */
+.latestprojects, .Thingsofabove, .footer {
+    font-family: ubuntu;
+}
+.latestprojects {
+    display: flex;
+    align-items: center;
+}
+/* Footer */
+/*Peewee Info */
+
+.peewee img {
+    border-radius: 60%;
+    width: 50px;
+    height: 55px;
+}
+

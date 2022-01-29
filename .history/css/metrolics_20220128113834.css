@@ -1,0 +1,13 @@
+/* Lowerpage Draft */
+.latestprojects, .Thingsofabove, .footer {
+    font-family: ubuntu;
+}
+/* Footer */
+/*Peewee Info */
+
+.peewee img {
+    border-radius: 60%;
+    width: 50px;
+    height: 55px;
+}
+
