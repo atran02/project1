@@ -1,9 +1,7 @@
 /* Lowerpage Draft */
-.latestprojects {
-    display: grid;
-    justify-content: center;
-}
-
+.lowerpage {
+    display: flex;
+    
 /*Our Latest Projects*/
 .latestprojects, .Thingsofabove, .footer {
     font-family: 'Ubuntu', sans-serif;
@@ -13,40 +11,18 @@
 h2 {
     margin-bottom: 0;
     color: #494949;
-    text-align: center;
 }
 
 .latestprojects p {
     font-size: 12px;
     color: #b6b5b5;
     margin-top: 0;
-    text-align: center;
 }
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1em;
-    justify-content: center;
-}
-
 /* Thingsofabove */
 .Thingsofabove p {
     font-size: 12px;
     color: #b6b5b5;
     margin-top: 0;
-    text-align: center;
-}
-.menutabgallery {
-    display: block;
-    margin-left: 25%;
-    margin-right: auto;
-    width: 50%;
-}
-.sponsors {
-    display: block;
-    margin-left: 25%;
-    margin-right: auto;
-    width: 100%;
 }
 
 /* Footer */

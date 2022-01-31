@@ -38,14 +38,14 @@ h2 {
 }
 .menutabgallery {
     display: block;
-    margin-left: 25%;
+    margin-left: 10%;
     margin-right: auto;
     width: 50%;
 }
 .sponsors {
     display: block;
-    margin-left: 25%;
-    margin-right: auto;
+    margin-left: auto;
+    margin-right: 40px;
     width: 100%;
 }
 

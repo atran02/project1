@@ -13,14 +13,12 @@
 h2 {
     margin-bottom: 0;
     color: #494949;
-    text-align: center;
 }
 
 .latestprojects p {
     font-size: 12px;
     color: #b6b5b5;
     margin-top: 0;
-    text-align: center;
 }
 .gallery {
     display: grid;
@@ -34,19 +32,13 @@ h2 {
     font-size: 12px;
     color: #b6b5b5;
     margin-top: 0;
-    text-align: center;
 }
-.menutabgallery {
-    display: block;
-    margin-left: 25%;
-    margin-right: auto;
-    width: 50%;
-}
+
 .sponsors {
-    display: block;
-    margin-left: 25%;
-    margin-right: auto;
-    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px 5px;
+    justify-content: center;
 }
 
 /* Footer */

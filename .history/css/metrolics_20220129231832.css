@@ -36,17 +36,11 @@ h2 {
     margin-top: 0;
     text-align: center;
 }
-.menutabgallery {
-    display: block;
-    margin-left: 25%;
-    margin-right: auto;
-    width: 50%;
-}
+
 .sponsors {
-    display: block;
-    margin-left: 25%;
-    margin-right: auto;
-    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    justify-content: center;
 }
 
 /* Footer */

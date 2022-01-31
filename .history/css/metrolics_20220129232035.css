@@ -23,10 +23,11 @@ h2 {
     text-align: center;
 }
 .gallery {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1em;
-    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 }
 
 /* Thingsofabove */
@@ -36,17 +37,11 @@ h2 {
     margin-top: 0;
     text-align: center;
 }
-.menutabgallery {
-    display: block;
-    margin-left: 25%;
-    margin-right: auto;
-    width: 50%;
-}
+
 .sponsors {
-    display: block;
-    margin-left: 25%;
-    margin-right: auto;
-    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    justify-content: center;
 }
 
 /* Footer */
